@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "+YWojyknfXYs1pbU8754QBlOiJ+H1uJ8yzFDkWbE9Ow=",
+  "Source": "WebAPIQuiz.API",
+  "BasePath": "_content/WebAPIQuiz.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebAPIQuiz.API\\wwwroot",
+      "Source": "WebAPIQuiz.API",
+      "ContentRoot": "C:\\Users\\Elkhan Mammadli\\source\\repos\\WebAPIQuiz\\WebAPIQuiz.API\\wwwroot\\",
+      "BasePath": "_content/WebAPIQuiz.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

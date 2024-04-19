@@ -1,0 +1,14 @@
+C:\Users\Elkhan Mammadli\source\repos\WebAPIQuiz\src\WebAPIQuiz.Core\bin\Debug\net8.0\WebAPIQuiz.Core.deps.json
+C:\Users\Elkhan Mammadli\source\repos\WebAPIQuiz\src\WebAPIQuiz.Core\bin\Debug\net8.0\WebAPIQuiz.Core.runtimeconfig.json
+C:\Users\Elkhan Mammadli\source\repos\WebAPIQuiz\src\WebAPIQuiz.Core\bin\Debug\net8.0\WebAPIQuiz.Core.dll
+C:\Users\Elkhan Mammadli\source\repos\WebAPIQuiz\src\WebAPIQuiz.Core\bin\Debug\net8.0\WebAPIQuiz.Core.pdb
+C:\Users\Elkhan Mammadli\source\repos\WebAPIQuiz\src\WebAPIQuiz.Core\obj\Debug\net8.0\WebAPIQuiz.Core.csproj.AssemblyReference.cache
+C:\Users\Elkhan Mammadli\source\repos\WebAPIQuiz\src\WebAPIQuiz.Core\obj\Debug\net8.0\WebAPIQuiz.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elkhan Mammadli\source\repos\WebAPIQuiz\src\WebAPIQuiz.Core\obj\Debug\net8.0\WebAPIQuiz.Core.AssemblyInfoInputs.cache
+C:\Users\Elkhan Mammadli\source\repos\WebAPIQuiz\src\WebAPIQuiz.Core\obj\Debug\net8.0\WebAPIQuiz.Core.AssemblyInfo.cs
+C:\Users\Elkhan Mammadli\source\repos\WebAPIQuiz\src\WebAPIQuiz.Core\obj\Debug\net8.0\WebAPIQuiz.Core.csproj.CoreCompileInputs.cache
+C:\Users\Elkhan Mammadli\source\repos\WebAPIQuiz\src\WebAPIQuiz.Core\obj\Debug\net8.0\WebAPIQuiz.Core.dll
+C:\Users\Elkhan Mammadli\source\repos\WebAPIQuiz\src\WebAPIQuiz.Core\obj\Debug\net8.0\refint\WebAPIQuiz.Core.dll
+C:\Users\Elkhan Mammadli\source\repos\WebAPIQuiz\src\WebAPIQuiz.Core\obj\Debug\net8.0\WebAPIQuiz.Core.pdb
+C:\Users\Elkhan Mammadli\source\repos\WebAPIQuiz\src\WebAPIQuiz.Core\obj\Debug\net8.0\WebAPIQuiz.Core.genruntimeconfig.cache
+C:\Users\Elkhan Mammadli\source\repos\WebAPIQuiz\src\WebAPIQuiz.Core\obj\Debug\net8.0\ref\WebAPIQuiz.Core.dll
